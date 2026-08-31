@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class Passanger {
-
+//i have to add some features in my program to check git command
     private String fname;
     private String lname;
     private String doj;
