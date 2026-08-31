@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class Passanger {
-
+//checking pull request
     private String fname;
     private String lname;
     private String doj;
